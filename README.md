@@ -13,7 +13,7 @@ For updates to this script, type Searchsploit update.
 ```
 git clone https://www.github.com/Err0r-ICA/Searchsploit
 cd Searchsploit 
-bash install
+bash install.sh
 ./Searchsploit
 ```
 
