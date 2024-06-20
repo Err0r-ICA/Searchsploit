@@ -1,3 +1,5 @@
+![logo](https://i.ibb.co/k15RwpT/1-6673a6e7b96f4991b8e3a883ad3fa0c1-id-y5-GI-jy-Op-C-e-HRDMCS0htg.jpg)
+
 # Searchsploit 🔎
 **<i>Find exploits in local and online database**</i>
 
@@ -7,7 +9,7 @@ Searchsploit is a bash script to quickly and easily search both local and online
 For updates to this script, type Searchsploit update.
 
 ## 📸 Screenshot 📸
-![Screenshot](https://i.postimg.cc/PrnjCZs2/20201127-035811.jpg)
+![Screenshot](https://i.ibb.co/ngcL62y/20201127-035811.jpg)
 
 ## 💿 Installing 💿
 ```
