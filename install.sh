@@ -2,8 +2,8 @@
 # Install script for Findsploit by @xer0dayz
 # https://xerosecurity.com 
 #
-
-SPLOIT_INSTALL_DIR=/data/data/com.termux/files/home/Searchsploit
+mkdir -p ~/.config/searchsploit
+SPOLIT_INSTALL_DIR=~/.config/searchsploit
 
 OKBLUE='\033[94m'
 OKRED='\033[91m'
